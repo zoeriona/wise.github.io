@@ -1,1 +1,1 @@
-# wise
+# wise.github.io
