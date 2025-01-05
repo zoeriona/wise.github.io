@@ -1,8 +1,8 @@
 .container{
-  width: 600px;
+  width: 600 px;
   margin: auto;
   border: thin solid black;
-  padding: 25px;
+  padding: 25 px;
 
 }
 .grid {
@@ -10,5 +10,5 @@
   grid-template-columns: auto auto;
 }
 .grid img{
-    width: 45%;
+    width: 100 %;
 }
