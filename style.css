@@ -1,6 +1,7 @@
 .container{
-  width: 600;
+  width: 600px;
   margin: auto;
   border: thin solid black;
+  padding: 25px;
 
 }
