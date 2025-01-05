@@ -9,4 +9,6 @@
   display: grid;
   grid-template-columns: auto auto;
 }
-
+.grid img{
+    width: 45%;
+}
